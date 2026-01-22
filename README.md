@@ -40,7 +40,6 @@ Desenvolvedor em constante evolução, focado em criar **aplicações modernas, 
 
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Hiroshiiy&show_icons=true&theme=dark" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiroshiiy&theme=dark" />
 </p>
 
 ---
