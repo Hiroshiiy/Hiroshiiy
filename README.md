@@ -35,8 +35,8 @@ Tenho interesse especial em:
 
 <p align="left">
 <a href="https://linkedin.com/in/SEU-LINK" target="_blank">LinkedIn</a> •
-<a href="https://open.spotify.com/user/SEU-USUARIO" target="_blank">Spotify</a> •
-<a href="https://instagram.com/SEU-USUARIO" target="_blank">Instagram</a>
+<a href="https://open.spotify.com/user/Hiroshiiy" target="_blank">Spotify</a> •
+<a href="https://instagram.com/Hiroshiiy" target="_blank">Instagram</a>
 </p>
 
 ---
@@ -61,8 +61,8 @@ Tenho interesse especial em:
 ### ⭐ Meus melhores repositórios
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-1&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-2&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroshiiy&repo=REPO-1&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroshiiy&repo=REPO-2&theme=dark" />
 </p>
 
 ---
