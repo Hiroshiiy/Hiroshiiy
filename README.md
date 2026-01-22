@@ -52,7 +52,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Click Here:</b>
       </samp>
   </summary>
   
@@ -65,7 +65,7 @@
 <div align="center">
   <samp>
     <b>
-      Click Here:
+      Contatos:
     </b>
   </samp>
   <br>
