@@ -53,13 +53,13 @@ Tenho interesse especial em:
 ### 🧠 Minhas Stacks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,node,express,postgres,mysql,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,node,express,postgres,mysql,git,github" />
 </p>
 
 ---
 
 <div align="center">
 
-> "O silêncio diz mais que eu."
+ "O silêncio diz mais que eu."
 
 </div>
