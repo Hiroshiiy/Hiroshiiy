@@ -65,7 +65,7 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      Click Here:
     </b>
   </samp>
   <br>
