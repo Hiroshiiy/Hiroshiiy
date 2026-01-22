@@ -2,9 +2,9 @@
 
 <div align="center">
 
-## Olá! Eu sou **SEU NOME** 👋
+## Olá! Eu sou **Hiroshi** 👋
 
-<img src="https://github.com/SEU-USUARIO/SEU-USUARIO/assets/00000000/banner.png" alt="banner" />
+<img src="https://i.pinimg.com/1200x/ae/53/32/ae533269539e1a6db39fc225d6c9c4c3.jpg" alt="banner" />
 
 </div>
 
