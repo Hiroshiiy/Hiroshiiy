@@ -4,7 +4,7 @@ https://capsule-render.vercel.app/api?type=wave&height=100&color=gradient&sectio
 
 <img src="https://i.pinimg.com/1200x/ae/53/32/ae533269539e1a6db39fc225d6c9c4c3.jpg" width="100%" alt="banner" />
 
-## Olá, eu sou **Hiroshi** 👋
+## https://readme-typing-svg.demolab.com/demo/?lines=Hiroshi.
 
 <sub>Front-end • Back-end • Full Stack</sub>
 
