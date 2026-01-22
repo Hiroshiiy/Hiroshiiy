@@ -21,8 +21,9 @@
       
 <br>
 <br>
-
+<div align="center">
 ###  GitHub Status
+</div>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hiroshiiy&show_icons=true&theme=dark" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiroshiiy&theme=dark" /> </p>
 
 <div align="center" style="display: inline_block"><br>
