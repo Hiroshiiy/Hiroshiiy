@@ -58,15 +58,6 @@ Tenho interesse especial em:
 
 ---
 
-### ⭐ Meus melhores repositórios
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroshiiy&repo=REPO-1&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroshiiy&repo=REPO-2&theme=dark" />
-</p>
-
----
-
 <div align="center">
 
 > "O silêncio diz mais que eu."
