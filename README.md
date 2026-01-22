@@ -15,6 +15,10 @@
   </samp>
 </div>
 
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=123845" /></p> 
+</div>
+
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EF%BE%A0%EF%BE%A0%EF%BE%A0gbc.bio+and+gothboicliquearchive%EF%BE%A0%EF%BE%A0" alt="Typing SVG" /></a>
 </div>
