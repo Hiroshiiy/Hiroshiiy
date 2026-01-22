@@ -57,3 +57,5 @@ Desenvolvedor em constante evolução, focado em criar **aplicações modernas, 
 > *"O silêncio diz mais que eu."*
 
 </div>
+
+https://capsule-render.vercel.app/api?type=wave&height=100&color=gradient&section=footer&reversal=true&textBg=false&fontAlign=86&descAlign=67&descAlignY=76
