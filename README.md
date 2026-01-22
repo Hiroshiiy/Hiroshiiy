@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>`I’m done crying over someone like you.`</b>
   <samp>
       <br>
       Hi there! I'm <b>Hiroshi.</b>
@@ -17,12 +17,6 @@
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
 </div>
       
 <br>
