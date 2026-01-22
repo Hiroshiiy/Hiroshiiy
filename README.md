@@ -73,7 +73,6 @@ GitHub Status
   <br>
 
   [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/duduestranh0/)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)]([https://discord.gg/8kc8HqXVw2](https://discord.gg/Nr99Qc4vHr))
   
 </div>
 
